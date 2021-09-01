@@ -9,7 +9,7 @@ Sample picture (Dijkstra):
 
 How to use:
 - Move the spaceship and planet to desired places in the grid by clicking and dragging them
-- add walls by clicking and dragging around the empty grid locations
+- add walls by clicking and dragging around on the empty grid locations
 - press the dropdown algorithms button and choose desired algorithm to visualize
 - clear grid and walls whenever you want by clicking the respective buttons
 
